@@ -1,0 +1,109 @@
+{
+  "checked_on": "2026-11-20",
+  "display_label": "氛围示意",
+  "usage_note": "All photographs are licensed Pexels stock imagery. They are atmosphere illustrations, not verified photographs of the listed travel destinations, and do not imply endorsement or commercial partnership. Assets may be resized/cropped/compressed for web use.",
+  "license_name": "Pexels License",
+  "license_url": "https://www.pexels.com/license/",
+  "license_summary": "Free personal and commercial use; attribution appreciated but not required. Do not imply endorsement or redistribute as a stock-photo library.",
+  "photos": [
+    {
+      "file": "hero.jpg",
+      "author": "jason hu",
+      "title": "Aerial View of Scenic Chinese Village Among Lush Hills",
+      "source_url": "https://www.pexels.com/photo/aerial-view-of-scenic-chinese-village-among-lush-hills-29611975/",
+      "image_url": "https://images.pexels.com/photos/29611975/pexels-photo-29611975.jpeg?auto=compress&cs=tinysrgb&w=2000",
+      "source_location": "Huangshan, China",
+      "label": "山间村落 · 氛围示意",
+      "target_width": 1800,
+      "target_bytes": 350000
+    },
+    {
+      "file": "village.jpg",
+      "author": "zhiming long",
+      "title": "Scenic Sunrise Over Traditional Chinese Village",
+      "source_url": "https://www.pexels.com/photo/scenic-sunrise-over-traditional-chinese-village-34216866/",
+      "image_url": "https://images.pexels.com/photos/34216866/pexels-photo-34216866.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "source_location": "Huangshan, China",
+      "label": "村落晨光 · 氛围示意",
+      "target_width": 1200,
+      "target_bytes": 180000
+    },
+    {
+      "file": "earth.jpg",
+      "author": "Bluesea Tea",
+      "title": "Green Tea Field",
+      "source_url": "https://www.pexels.com/photo/green-tea-field-16264708/",
+      "image_url": "https://images.pexels.com/photos/16264708/pexels-photo-16264708.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "source_location": "Hangzhou, Zhejiang, China",
+      "label": "江南茶田 · 氛围示意",
+      "target_width": 1200,
+      "target_bytes": 180000
+    },
+    {
+      "file": "pottery.jpg",
+      "author": "Aakash Goel",
+      "title": "Close-up of Artisan Hands Crafting Pottery on Wheel",
+      "source_url": "https://www.pexels.com/photo/close-up-of-artisan-hands-crafting-pottery-on-wheel-30147980/",
+      "image_url": "https://images.pexels.com/photos/30147980/pexels-photo-30147980.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "source_location": null,
+      "label": "手作陶艺 · 氛围示意",
+      "target_width": 1200,
+      "target_bytes": 180000
+    },
+    {
+      "file": "water.jpg",
+      "author": "Qing Luo",
+      "title": "Traditional Chinese Water Town Scene with Reflections",
+      "source_url": "https://www.pexels.com/photo/traditional-chinese-water-town-scene-with-reflections-29372780/",
+      "image_url": "https://images.pexels.com/photos/29372780/pexels-photo-29372780.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "source_location": "China",
+      "label": "水乡倒影 · 氛围示意",
+      "target_width": 1200,
+      "target_bytes": 180000
+    },
+    {
+      "file": "lane.jpg",
+      "author": "Richard L",
+      "title": "Charming Narrow Alleyway in Ancient Chinese Town",
+      "source_url": "https://www.pexels.com/photo/charming-narrow-alleyway-in-ancient-chinese-town-33623759/",
+      "image_url": "https://images.pexels.com/photos/33623759/pexels-photo-33623759.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "source_location": "China",
+      "label": "古巷日常 · 氛围示意",
+      "target_width": 1000,
+      "target_bytes": 180000
+    },
+    {
+      "file": "bamboo.jpg",
+      "author": "Man Fong Wong",
+      "title": "Scenic Pathway Through Bamboo Forest in Guilin",
+      "source_url": "https://www.pexels.com/photo/scenic-pathway-through-bamboo-forest-in-guilin-40407113/",
+      "image_url": "https://images.pexels.com/photos/40407113/pexels-photo-40407113.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "source_location": "Guilin, Guangxi, China",
+      "label": "竹林小径 · 氛围示意",
+      "target_width": 1200,
+      "target_bytes": 180000
+    },
+    {
+      "file": "pear.jpg",
+      "author": "Adriaan Westra",
+      "title": "Close-up of Beautiful White Spring Blossoms",
+      "source_url": "https://www.pexels.com/photo/close-up-of-beautiful-white-spring-blossoms-37037472/",
+      "image_url": "https://images.pexels.com/photos/37037472/pexels-photo-37037472.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "source_location": null,
+      "label": "春日梨花 · 氛围示意",
+      "target_width": 1200,
+      "target_bytes": 180000
+    },
+    {
+      "file": "ancient.jpg",
+      "author": "Garrison Gao",
+      "title": "Traditional Water Town in Suzhou, China",
+      "source_url": "https://www.pexels.com/photo/traditional-water-town-in-suzhou-china-36466095/",
+      "image_url": "https://images.pexels.com/photos/36466095/pexels-photo-36466095.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "source_location": "Suzhou, Jiangsu, China",
+      "label": "水乡老街 · 氛围示意",
+      "target_width": 1200,
+      "target_bytes": 180000
+    }
+  ]
+}
