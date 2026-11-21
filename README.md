@@ -1,6 +1,6 @@
 # 见微知乡
 
-[打开公开演示站](https://jianwei-village-weekends.qizhiyuan1919.chatgpt.site)
+[打开见微知乡 · GitHub Pages](https://lexstark335-ctrl.github.io/jianwei-village/)
 
 一套可独立运行的文旅网站交互演示，包含目的地发现、目的地详情、行程助手、旅行广场和我的旅行。界面适配桌面与手机。
 
@@ -41,4 +41,4 @@
 
 ## GitHub Pages
 
-发布目录为 `main` 分支的 `/docs`。修改源码后运行 `python build.py`，然后一并提交源码和生成的 `docs/index.html`。
+网站由 GitHub Pages 从 `main` 分支的 `/docs` 目录发布。修改源码后运行 `python build.py`，将源码和生成的 `docs/index.html` 一并提交到 `main`。可在仓库的 Actions 页面查看部署结果。
