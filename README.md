@@ -41,4 +41,4 @@
 
 ## GitHub Pages
 
-网站由 GitHub Pages 从 `main` 分支的 `/docs` 目录发布。修改源码后运行 `python build.py`，将源码和生成的 `docs/index.html` 一并提交到 `main`。可在仓库的 Actions 页面查看部署结果。
+网站由 GitHub Pages 发布。`main` 分支的根目录和 `/docs` 都有网页入口，共用 `docs/assets` 中的图片。修改源码后运行 `python build.py`，将源码和两个生成的 `index.html` 一并提交到 `main`。可在仓库的 Actions 页面查看部署结果。
